@@ -3,16 +3,7 @@
 ### AI Product Explorer · 中药学学生 · Building in Public
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=540&lines=Exploring+AI+products+through+real+problems.;Building%2C+testing%2C+and+iterating.;用真实问题驱动产品探索与实践。"
-    alt="A short animated introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="#中文">中文</a> ·
-  <a href="#english">English</a> ·
-  <a href="#projects">Projects / 项目</a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Exploring+AI+products;Building+and+iterating;Connecting+AI+with+real-world+problems" alt="Animated introduction" />
 </p>
 
 ---
